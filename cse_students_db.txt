@@ -1,0 +1,6 @@
+222;Sk Azmain Zunaeid;68_A;82;75;72;85;91;405
+223;Syeda Zawada Farah;68_A;69;72;89;75;78;383
+457;Md Delower Sarker;68_A;85;64;86;84;69;388
+548;Tahmid Ibne Mofazzol;68_C;78;86;92;68;71;395
+829;Shourov Molla;68_M;45;91;57;88;72;353
+991;Nadia Khanam;68_C;45;59;64;55;71;294
